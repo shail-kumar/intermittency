@@ -20,6 +20,7 @@ int main(int argc, char const *argv[])
 	Array<vect,1> A(num_row,num_col);
 	Array<vect,1> E(num_row,num_col);
 	E = 0.0;
+	cout<<" Put the entry of a vector in the form [2,3,4] "<<endl;
 	for (int i = 0; i < num_col; ++i)
 	{
 		cout<<"Elements of vector "<<i+1<<" : ";
