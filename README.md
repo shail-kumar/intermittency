@@ -1,2 +1,2 @@
 # intermittency
-This project is about intermittenvy in a turbulent flow from the perspective of a dynamical system.
+This project is about intermittency in a turbulent flow from the perspective of a dynamical system.
