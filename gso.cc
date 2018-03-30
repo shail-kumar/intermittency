@@ -2,7 +2,7 @@
 * This program returns the orthonormal vectors using the Gram-Schmidth Orthogonalization procedure.
 * The input is the basis vectors of the vector space.
 
-Author: Shailendra K rathor
+Author: Shail Kumar
 Created on : Thu Mar 29 17:32:39 2018
 */
 #include <iostream>
